@@ -1,15 +1,10 @@
 ###SWBATS
-+ CSS - utilize text declarations
-+ CSS - How to create their own image sprites and render different versions based on hover state.
-+ CSS - understand how to use scaling elements - px, em, % - and min and max
-+ CSS - Understand what a sprite it
-+ CSS - understand how to use Z index property for layering
 + CSS - include comments
-+ HTML - understand how to use HTML5 audio and video tags
 + CSS - understand how to use gradient and how to make it cross-browser friendly
 + CSS - Use background properties for box styling
 + CSS - understand how to use opacity and how to make it cross-browser friendly
 + CSS - understand and utilize border property for box styling, including border radius and box shadow
++ CSS - utilize text declarations
 
 ###Motivation
 Let's pimp out your site with box styles, audio and video tags, and sprites! 
@@ -91,6 +86,7 @@ Let's pimp out your site with box styles, audio and video tags, and sprites!
   }
   ```
 + It’s way easier to just use a gradient generator like this: http://www.colorzilla.com/gradient-editor/ 
+
 
 
 ##Conclusion / So What?
