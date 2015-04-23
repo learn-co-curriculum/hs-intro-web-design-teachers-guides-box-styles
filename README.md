@@ -5,6 +5,7 @@
 + CSS - understand how to use opacity and how to make it cross-browser friendly
 + CSS - understand and utilize border property for box styling, including border radius and box shadow
 + CSS - utilize text declarations
++ CSS - understand how to use scaling elements - px, em, % - and min and max
 
 ###Motivation
 Let's pimp out your site with box styles, audio and video tags, and sprites! 
