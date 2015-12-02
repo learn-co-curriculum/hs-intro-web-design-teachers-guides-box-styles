@@ -93,3 +93,4 @@ Let's pimp out your site with box styles, audio and video tags, and sprites!
 ##Conclusion / So What?
 
 ### Hints and Hurdles
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guides-box-styles' data-visibility='hidden'>View this lesson on Learn.co</a>
